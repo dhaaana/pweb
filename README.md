@@ -13,7 +13,12 @@ File:
 
 <h3>Tugas Kastemisasi Contoh jQuery</h3>
 File:
+<ul>
+<li>tugasjquery.html</li>
+</ul>
 
 <h3>Praktikum Modul 2</h3>
-
 File:
+<ul>
+<li>praktikumdua.html</li>
+</ul>
